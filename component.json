@@ -1,5 +1,7 @@
 {
   "name": "type",
+  "repo": "lge88/type",
+  "upstream": "git://github.com/component/type.git",
   "description": "Cross-browser type assertions (less broken typeof)",
   "version": "1.0.0",
   "keywords": ["typeof", "type", "utility"],
